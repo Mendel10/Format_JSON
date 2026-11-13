@@ -1,1 +1,15 @@
-
+{
+  "jmeno": "Samuel Mendel",
+  "vek": 16,
+  "je_plnolety": false,
+  "poznamka": null,
+  "adresa": {
+     "mesto": "Praha",
+     "ulice": "Travná"
+},
+  "konicky": [
+    "ping pong",
+    "hraní her",
+    "plavání"
+   ]
+}
